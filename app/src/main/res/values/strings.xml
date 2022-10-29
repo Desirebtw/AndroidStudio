@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CLASS_APPLICATION</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="spinner">Spinner</string>
+    <string name="buttons">Всякие кнопочки</string>
+
+</resources>
